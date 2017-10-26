@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project name="banma" default="build">
+    <target name="build" depends="phpunit,test"/>
+
+    <target name="phpunit" description="Run unit tests with PHPUnit">
+        <exec executable="phpunit" />
+    </target>
+
+    <target name="test" description="Run PHPUnit tests">
+        <phpunit haltonerror="true" haltonfailure="true" printsummary="true" pharlocation="D:\wamp64\bin\php\php7.1.9\phpunit-5.7.23.phar">
+            <batchtest>
+                <fileset dir="tests">
+                    <include name="**/*Test.php" />
+                </fileset>
+            </batchtest>
+        </phpunit>
+    </target>
+</project>

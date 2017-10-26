@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="WEB_MODULE" version="4">
+  <component name="NewModuleRootManager">
+    <content url="file://$MODULE_DIR$" />
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library name="PHP" type="php">
+        <CLASSES>
+          <root url="file://D:/" />
+        </CLASSES>
+        <SOURCES>
+          <root url="file://D:/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library name="PHARS">
+        <CLASSES>
+          <root url="phar://D:/wamp64/www/banma/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-1.0.1.phar/" />
+          <root url="phar://D:/phpStudy/PHPTutorial/php/php-5.4.45/pharcommand.phar/" />
+          <root url="phar://D:/php/php56/pharcommand.phar/" />
+          <root url="phar://D:/wamp64/bin/php/php5.6.31/composer.phar/" />
+          <root url="phar://D:/xampp/php/pharcommand.phar/" />
+          <root url="phar://D:/PHP_SOURCE/day1024/vendor/phar-io/manifest/tests/_fixture/test.phar/" />
+          <root url="phar://D:/phpStudy/PHPTutorial/php/php-5.6.27-nts/pharcommand.phar/" />
+          <root url="phar://D:/wamp64/bin/php/php5.6.31/pharcommand.phar/" />
+          <root url="phar://D:/PHP_SOURCE/carbon_demo/composer.phar/" />
+          <root url="phar://D:/wamp64/bin/php/php7.1.9/composer.phar/" />
+          <root url="phar://D:/phpStudy/PHPTutorial/php/php-5.4.45-nts/pharcommand.phar/" />
+          <root url="phar://D:/wamp64/www/banma/vendor/phar-io/manifest/tests/_fixture/test.phar/" />
+          <root url="phar://D:/phpStudy/PHPTutorial/php/php-5.5.38/pharcommand.phar/" />
+          <root url="phar://D:/phpStudy/PHPTutorial/tools/pear/go-pear.phar/" />
+          <root url="phar://D:/phpStudy/PHPTutorial/php/php-7.0.12-nts/pharcommand.phar/" />
+          <root url="phar://D:/wamp64/bin/php/php7.1.9/pharcommand.phar/" />
+          <root url="phar://D:/wamp64/bin/php/php7.0.23/pharcommand.phar/" />
+          <root url="phar://D:/pear/go-pear.phar/" />
+          <root url="phar://D:/phpStudy/PHPTutorial/tools/composer/composer.phar/" />
+          <root url="phar://D:/PHP_SOURCE/day1022/composer.phar/" />
+          <root url="phar://D:/PHP_SOURCE/day1024/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-1.0.1.phar/" />
+          <root url="phar://D:/wamp64/bin/php/php7.1.9/phing.phar/" />
+          <root url="phar://D:/$RECYCLE.BIN/S-1-5-21-3341972347-619295184-4047528011-1001/$RI1XR2F.phar/" />
+          <root url="phar://D:/$RECYCLE.BIN/S-1-5-21-3341972347-619295184-4047528011-1001/$II1XR2F.phar/" />
+          <root url="phar://D:/$RECYCLE.BIN/S-1-5-21-3341972347-619295184-4047528011-1001/$IYNA1TG.phar/" />
+          <root url="phar://D:/$RECYCLE.BIN/S-1-5-21-3341972347-619295184-4047528011-1001/$RYNA1TG.phar/" />
+          <root url="phar://D:/wamp64/bin/php/php7.1.9/phpunit-3.7.10.phar/" />
+          <root url="phar://D:/wamp64/bin/php/php7.1.9/phpunit-5.7.23.phar/" />
+        </CLASSES>
+        <SOURCES>
+          <root url="phar://D:/wamp64/www/banma/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-1.0.1.phar/" />
+          <root url="phar://D:/phpStudy/PHPTutorial/php/php-5.4.45/pharcommand.phar/" />
+          <root url="phar://D:/php/php56/pharcommand.phar/" />
+          <root url="phar://D:/wamp64/bin/php/php5.6.31/composer.phar/" />
+          <root url="phar://D:/xampp/php/pharcommand.phar/" />
+          <root url="phar://D:/PHP_SOURCE/day1024/vendor/phar-io/manifest/tests/_fixture/test.phar/" />
+          <root url="phar://D:/phpStudy/PHPTutorial/php/php-5.6.27-nts/pharcommand.phar/" />
+          <root url="phar://D:/wamp64/bin/php/php5.6.31/pharcommand.phar/" />
+          <root url="phar://D:/PHP_SOURCE/carbon_demo/composer.phar/" />
+          <root url="phar://D:/wamp64/bin/php/php7.1.9/composer.phar/" />
+          <root url="phar://D:/phpStudy/PHPTutorial/php/php-5.4.45-nts/pharcommand.phar/" />
+          <root url="phar://D:/wamp64/www/banma/vendor/phar-io/manifest/tests/_fixture/test.phar/" />
+          <root url="phar://D:/phpStudy/PHPTutorial/php/php-5.5.38/pharcommand.phar/" />
+          <root url="phar://D:/phpStudy/PHPTutorial/tools/pear/go-pear.phar/" />
+          <root url="phar://D:/phpStudy/PHPTutorial/php/php-7.0.12-nts/pharcommand.phar/" />
+          <root url="phar://D:/wamp64/bin/php/php7.1.9/pharcommand.phar/" />
+          <root url="phar://D:/wamp64/bin/php/php7.0.23/pharcommand.phar/" />
+          <root url="phar://D:/pear/go-pear.phar/" />
+          <root url="phar://D:/phpStudy/PHPTutorial/tools/composer/composer.phar/" />
+          <root url="phar://D:/PHP_SOURCE/day1022/composer.phar/" />
+          <root url="phar://D:/PHP_SOURCE/day1024/vendor/phpunit/phpunit/tests/_files/phpunit-example-extension/tools/phpunit.d/phpunit-example-extension-1.0.1.phar/" />
+          <root url="phar://D:/wamp64/bin/php/php7.1.9/phing.phar/" />
+          <root url="phar://D:/$RECYCLE.BIN/S-1-5-21-3341972347-619295184-4047528011-1001/$RI1XR2F.phar/" />
+          <root url="phar://D:/$RECYCLE.BIN/S-1-5-21-3341972347-619295184-4047528011-1001/$II1XR2F.phar/" />
+          <root url="phar://D:/$RECYCLE.BIN/S-1-5-21-3341972347-619295184-4047528011-1001/$IYNA1TG.phar/" />
+          <root url="phar://D:/$RECYCLE.BIN/S-1-5-21-3341972347-619295184-4047528011-1001/$RYNA1TG.phar/" />
+          <root url="phar://D:/wamp64/bin/php/php7.1.9/phpunit-3.7.10.phar/" />
+          <root url="phar://D:/wamp64/bin/php/php7.1.9/phpunit-5.7.23.phar/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+  </component>
+</module>
